@@ -1,0 +1,65 @@
+/* start head*/
+
+.head{
+    background-color: #153E52;
+    color: white;
+    font-weight: bold;
+    height: 400px;
+}
+.head p{
+   padding-top: 180px;
+   font-size: 40px;
+}
+
+
+/* end head*/
+
+
+.scrolled {
+    background-color:#113448;
+    height: 55px
+
+}
+.breadcrumb{
+    padding-left: 110px;
+    padding-top: 20px;
+    height: 62px;
+}
+
+/* start limitations*/
+
+.limitations{
+    padding-top: 80px;
+    padding-bottom: 50px;
+}
+.limitations span{
+    display: block;
+    margin-bottom: 15px;
+    margin-left: 20px;
+    color: #9e9fa2;
+}
+
+/* end limitations*/
+
+
+/* start assets*/
+.assets .btn{
+    display: inline-block;
+    padding: 1.1875rem 1.875rem 1.1875rem 1.875rem;
+    border: 0.125rem solid #787976;
+    border-radius: 0.25rem;
+    background-color: transparent;
+    color: #787976;
+    font: 700 0.75rem/0 "Montserrat", sans-serif;
+    text-decoration: none;
+    transition: all 0.2s;
+    margin-top: 1.75rem;
+}
+
+.assets .btn:hover{
+    color: white;
+    background-color: #787976;
+}
+
+
+/* end assets*/

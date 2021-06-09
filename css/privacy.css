@@ -1,0 +1,110 @@
+body{
+    height: 3000px;
+}
+
+
+
+/* start head*/
+
+.head{
+    background-color: #153E52;
+    color: white;
+    font-weight: bold;
+    height: 400px;
+}
+.head p{
+   padding-top: 180px;
+   font-size: 40px;
+}
+
+
+/* end head*/
+.breadcrumb{
+    padding-left: 110px;
+    padding-top: 20px;
+    height: 62px;
+}
+
+
+/* start private data*/
+
+.private-data{
+    padding-top: 80px;
+    padding-bottom: 50px;
+}
+.private-data span{
+    display: block;
+    margin-bottom: 15px;
+    margin-left: 20px;
+    color: #9e9fa2;
+}
+
+/* end private data*/
+
+
+.landing-page span{
+    display: block;
+    margin-bottom: 15px;
+    margin-left: 20px;
+    color: #9e9fa2;
+}
+
+
+
+
+.inquire-data{
+    padding-top: 70px;
+}
+
+.inquire-data input{
+    display: block;
+    width: 100%;
+    margin-top: 20px;
+    padding: 10px 15px;
+}
+
+.inquire-data select{
+    width: 100%;
+    margin-top: 20px;
+    padding: 10px 15px;
+}
+
+
+.inquire-data input[type="checkbox"]{
+    position: absolute;
+    top: 202px;
+    right: 262px;
+}
+
+.inquire-data button{
+    width: 100%;
+    background-color: #21b592;
+    border: 1px solid #21b592;
+    border-radius: 4px;
+    color: white;
+    padding: 8px 15px;
+    cursor: pointer;
+    font-weight: bold;
+    margin-top: 15px;
+}
+.inquire-data button:hover{
+    background-color: transparent;
+    color: #21b592;
+}
+.inquire-data .btn{
+    display: inline-block;
+    padding: 1.1875rem 1.875rem 1.1875rem 1.875rem;
+    border: 0.125rem solid #787976;
+    border-radius: 0.25rem;
+    background-color: transparent;
+    color: #787976;
+    font: 700 0.75rem/0 "Montserrat", sans-serif;
+    text-decoration: none;
+    transition: all 0.2s;
+    margin-top: 1.75rem;
+}
+.inquire-data .btn:hover{
+    color: white;
+    background-color: #787976;
+    
+}
